@@ -1,6 +1,6 @@
 # H-coloring 4-regular graphs
 
-This repository contains code and data related to the paper "A note on $\bar{X}$-coloring and $\hat{A}$-coloring 4-regular graphs" (available on [arXiv] (https://arxiv.org/abs/2401.05510)). All code can be found in the directory "Code", whereas all data can be found in the directory "Data".
+This repository contains code and data related to the paper "A note on $\bar{X}$-coloring and $\hat{A}$-coloring 4-regular graphs" (available on [arXiv](https://arxiv.org/abs/2401.05510)). All code can be found in the directory "Code", whereas all data can be found in the directory "Data".
 
 Below, we briefly describe the different programs and data.
 
